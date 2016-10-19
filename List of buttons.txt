@@ -1,0 +1,1 @@
+For a list of buttons for AHK - https://autohotkey.com/docs/KeyList.htm
