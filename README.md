@@ -1,5 +1,7 @@
 # OBS-Kill-counter
 
+*WARNING* It is *highly* unlikely you will get banned for using this, but i'm giving this warning because i'm not 110% sure! 
+
 1. Download Autohotkey from www.autohotkey.com - and install it
 2. Download this repo as a zip and extract where you want (I recommend the desktop)
 3. Right click on AHK_Script and hit edit, then change "filePath" to match your file path.
