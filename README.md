@@ -1,6 +1,6 @@
 # OBS-Kill-counter
 
-1. Download Autohotkey from autohotkey.com - and install it
+1. Download Autohotkey from www.autohotkey.com - and install it
 2. Download this repo as a zip and extract where you want (I recommend the desktop)
 3. Right click on AHK_Script and hit edit, then change "filePath" to match your file path.
 OPTIONAL - Change the buttons inside AHK_Script to your liking - I've included a file for the button names. To do this, change XButton1 or F11 (keep the two colons!)
